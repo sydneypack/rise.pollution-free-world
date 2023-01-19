@@ -17,11 +17,33 @@ Pollution does not only affect the environment we live in but also affects our h
 **FINDINGS**
 
 **HUMAN HEALTH COMPLICATIONS**
+
+Lung diseases
+
 Severe toxic fume inhalations, usually accidental due to human error or equipment failure, can result in immediate death from asphyxia or cause mild to severe respiratory distress from acute upper airways inflammation, delayed pulmonary edema, respiratory muscle dysfunction, or a combination of illnesses. Most patients are expected to survive and recover with little or no residual dysfunction regardless of the severity of the initial event. However, in some cases disabling long-term sequelae, eg, bronchiectasis, chronic airflow obstruction, bronchial hyperreactivity, asthma-like disease (reactive airways dysfunction syndrome), bronchiolitis obliterans, or residual psychophysiologic dyspnea, can occur. 
 
 Therapy of the respiratory effects of irritant gases should follow the general principles used for the treatment of upper and lower airway obstruction, noncardiogenic pulmonary edema, and hemorrhagic pneumonitis while spontaneous healing and recovery occurs, because no specific therapy is available for direct chemical pulmonary injury. Corticosteroids are frequently used and recommended, but their efficacy in altering the course and outcome of respiratory injury has not yet been properly documented. 
 
 ![image](https://user-images.githubusercontent.com/96417805/213447603-657197fb-f3a4-494a-8843-a035bf45b10e.png)
+
+Heart diseases
+
+When you breathe in poor quality air, the air pollutants can travel deep into your bloodstream through your lungs, and to your heart. This can increase your risk of developing heart and circulatory diseases. 
+
+    Damage your blood vessels by making them narrower and harder. This can:
+        make it more difficult for your blood to flow freely
+        make your blood more likely to clot
+        increase your blood pressure because your heart is pumping faster to move the blood that can’t flow properly
+        increase the strain on your heart muscle by working harder than it should.
+    Affect your heart’s electrical system which controls your heartbeat. This can:
+        cause abnormal heart rhythms.
+    Potentially cause small changes to the structure of your heart. This can:
+        be similar to changes seen in the early stages of heart failure.
+
+For people with existing heart and circulatory conditions, this damage can increased their risk of events like a heart attack or stroke.
+
+![image](https://user-images.githubusercontent.com/96417805/213451674-844979c0-e7ff-4891-8baa-7a704c8cd87b.png)
+
 
 **ENVIRONMENTAL COMPLICATIONS**
 
@@ -42,6 +64,8 @@ The main effect of global warming is **climate change**. Climate change refers t
 More frequent and intense drought, storms, heat waves, rising sea levels, melting glaciers and warming oceans can directly harm animals, destroy the places they live, and wreak havoc on people's livelihoods and communities.
 
 ![image](https://user-images.githubusercontent.com/96417805/213450187-d1944ecf-e294-4198-8d9d-9e75fe7ab3e6.png)
+
+
 
 
 
