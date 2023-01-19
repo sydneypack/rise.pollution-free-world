@@ -16,11 +16,29 @@ Pollution does not only affect the environment we live in but also affects our h
 
 **FINDINGS**
 
+**HUMAN HEALTH COMPLICATIONS**
 Severe toxic fume inhalations, usually accidental due to human error or equipment failure, can result in immediate death from asphyxia or cause mild to severe respiratory distress from acute upper airways inflammation, delayed pulmonary edema, respiratory muscle dysfunction, or a combination of illnesses. Most patients are expected to survive and recover with little or no residual dysfunction regardless of the severity of the initial event. However, in some cases disabling long-term sequelae, eg, bronchiectasis, chronic airflow obstruction, bronchial hyperreactivity, asthma-like disease (reactive airways dysfunction syndrome), bronchiolitis obliterans, or residual psychophysiologic dyspnea, can occur. 
 
 Therapy of the respiratory effects of irritant gases should follow the general principles used for the treatment of upper and lower airway obstruction, noncardiogenic pulmonary edema, and hemorrhagic pneumonitis while spontaneous healing and recovery occurs, because no specific therapy is available for direct chemical pulmonary injury. Corticosteroids are frequently used and recommended, but their efficacy in altering the course and outcome of respiratory injury has not yet been properly documented. 
 
 ![image](https://user-images.githubusercontent.com/96417805/213447603-657197fb-f3a4-494a-8843-a035bf45b10e.png)
+
+**ENVIRONMENTAL COMPLICATIONS**
+
+Global warming
+
+What is global warming and its caused?
+
+**Global warming** is an aspect of climate change, referring to the long-term rise of the planet's temperatures. It is caused by increased concentrations of greenhouse gases in the atmosphere, mainly from human activities such as burning fossil fuels, and farming. Global warming has effects on our environment and these include: Hotter temperatures. As greenhouse gas concentrations rise, so does the global surface temperature. ...
+More severe storms. ...
+Increased drought. ...
+A warming, rising ocean. ...
+Loss of species. ...
+Not enough food. ...
+More health risks. ...
+Poverty and displacement
+
+
 
 
 
