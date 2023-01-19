@@ -3,7 +3,7 @@ A world of change, a world without pollution more so air pollution, a world with
 
 **INTRODUCTION**
 
-I stand by the names of Wakabi Sydney and with great concern and here to unveil the greatest environmental destroyer and cause of most negative health conditions.
+I stand by the names of Wakabi Sydney and with great concern am here to unveil the greatest environmental destroyer and cause of most negative health conditions.
 
 With great desire and hope to live in a pollution and disease free world, we, humans are coming up with different ways of conserving the environment order to make it a better place.
 Implementing various ways of fighting water, land and air pollution, humanity comes up with advanced methods of taking action to reduce these kinds of pollution.
