@@ -20,4 +20,7 @@ Severe toxic fume inhalations, usually accidental due to human error or equipmen
 
 Therapy of the respiratory effects of irritant gases should follow the general principles used for the treatment of upper and lower airway obstruction, noncardiogenic pulmonary edema, and hemorrhagic pneumonitis while spontaneous healing and recovery occurs, because no specific therapy is available for direct chemical pulmonary injury. Corticosteroids are frequently used and recommended, but their efficacy in altering the course and outcome of respiratory injury has not yet been properly documented. 
 
+![image](https://user-images.githubusercontent.com/96417805/213447603-657197fb-f3a4-494a-8843-a035bf45b10e.png)
+
+
 
