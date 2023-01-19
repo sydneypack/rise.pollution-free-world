@@ -38,6 +38,10 @@ Not enough food. ...
 More health risks. ...
 Poverty and displacement
 
+The main effect of global warming is **climate change**. Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle. whenever there is a change in climate, the environment is affected a lot which brings more comlcations to we the humans who reside on earth. some of the effects of climate change include;
+More frequent and intense drought, storms, heat waves, rising sea levels, melting glaciers and warming oceans can directly harm animals, destroy the places they live, and wreak havoc on people's livelihoods and communities.
+
+![image](https://user-images.githubusercontent.com/96417805/213450187-d1944ecf-e294-4198-8d9d-9e75fe7ab3e6.png)
 
 
 
