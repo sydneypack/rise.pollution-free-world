@@ -42,7 +42,8 @@ When you breathe in poor quality air, the air pollutants can travel deep into yo
 
 For people with existing heart and circulatory conditions, this damage can increased their risk of events like a heart attack or stroke.
 
-![image](https://user-images.githubusercontent.com/96417805/213452430-c47d7217-2a9d-47c9-aae6-8bbe81617315.png)
+![image](https://user-images.githubusercontent.com/96417805/213452711-7b020907-1d8b-4d7d-997f-8f2e99db627a.png)
+
 
 **ENVIRONMENTAL COMPLICATIONS**
 
