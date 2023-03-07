@@ -85,7 +85,7 @@ This problem can become much worse during heavy downpours of rain or when the sn
 Acid Rain Damages Buildings and Objects
 Acid rain can also have a damaging effect on many objects, including buildings, statues, monuments, and cars. The chemicals found in acid rain can cause paint to peel and stone statues to begin to appear old and worn down, which reduces their value and beauty.
 
-![image](https://user-images.githubusercontent.com/96417805/223509396-cb8d1206-8613-4bc6-8989-72c5d30e69bc.png)
+![image align="center" width="300" height"100"](https://user-images.githubusercontent.com/96417805/223509396-cb8d1206-8613-4bc6-8989-72c5d30e69bc.png)
 
 
 
