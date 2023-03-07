@@ -68,6 +68,22 @@ More frequent and intense drought, storms, heat waves, rising sea levels, meltin
 
 ![image](https://user-images.githubusercontent.com/96417805/213450187-d1944ecf-e294-4198-8d9d-9e75fe7ab3e6.png)
 
+Acid Rain Can Cause Health Problems in People
+Air pollution like sulfur dioxide and nitrogen oxides can cause respiratory diseases, or can make these diseases worse. Respiratory diseases like asthma or chronic bronchitis make it hard for people to breathe. The pollution that causes acid rain can also create tiny particles. When these particles get into people’s lungs, they can cause health problems, or can make existing health problems worse. Also, nitrogen oxides cause ground-level ozone. This ground-level ozone causes respiratory problems, like pneumonia and bronchitis, and can even cause permanent lung damage. The health effects that people have to worry about are not caused by the acid rain, but are caused when people breathe in these tiny particles or ozone. Swimming in an acidic lake or walking in an acidic puddle is no more harmful to people than swimming or walking in clean water.
+
+Acid Rain Harms Forests
+Acid rain can be extremely harmful to forests. Acid rain that seeps into the ground can dissolve nutrients, such as magnesium and calcium, that trees need to be healthy. Acid rain also causes aluminum to be released into the soil, which makes it difficult for trees to take up water. Trees that are located in mountainous regions at higher elevations, such as spruce or fir trees, are at greater risk because they are exposed to acidic clouds and fog, which contain greater amounts of acid than rain or snow. The acidic clouds and fog strip important nutrients from their leaves and needles. This loss of nutrients makes it easier for infections, insects, and cold weather to damage trees and forests.
+
+![image](https://user-images.githubusercontent.com/96417805/223509173-72e424e8-4ccc-4aed-9787-2228d2981e41.png)
+
+
+Acid Rain Damages Lakes and Streams
+Without pollution or acid rain, most lakes and streams would have a pH level near 6.5. Acid rain, however, has caused many lakes and streams in the northeast United States and certain other places to have much lower pH levels. In addition, aluminum that is released into the soil eventually ends up in lakes and streams. Unfortunately, this increase in acidity and aluminum levels can be deadly to aquatic wildlife, including phytoplankton, mayflies, rainbow trout, small mouth bass, frogs, spotted salamanders, crayfish, and other creatures that are part of the food web.
+
+This problem can become much worse during heavy downpours of rain or when the snow begins to melt in the spring. These types of events are known as episodic acidification.
+
+Acid Rain Damages Buildings and Objects
+Acid rain can also have a damaging effect on many objects, including buildings, statues, monuments, and cars. The chemicals found in acid rain can cause paint to peel and stone statues to begin to appear old and worn down, which reduces their value and beauty.
 
 
 
