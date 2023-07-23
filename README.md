@@ -6,7 +6,7 @@ A world of change, a world without pollution more so air pollution, a world with
 
 **INTRODUCTION**
 
-I stand by the names of Wakabi Sydney and with great concern am here to unveil the greatest environmental destroyer and cause of most negative health conditions.
+I stand by the name of Wakabi Sydney and with great concern am here to unveil the greatest environmental destroyer and cause of most negative health conditions.
 
 With great desire and hope to live in a pollution and disease free world, we, humans are coming up with different ways of conserving the environment order to make it a better place.
 Implementing various ways of fighting water, land and air pollution, humanity comes up with advanced methods of taking action to reduce these kinds of pollution.
@@ -52,7 +52,9 @@ For people with existing heart and circulatory conditions, this damage can incre
 **GLOBAL WARMING AND GREENHOUSE EFFECT**
 
 **GREENHOUSE EFFECT**
-The greenhouse effect is the process by which greenhouse gases(carbon dioxide, methane, nitrous oxide) in a planet's atmosphere cause some of the heat radiated from the planet's surface to build up within the planet's surface. When these gases rise up in the atnmosphere, they form a thermal blanket within the atmosphere.
+The greenhouse effect is the process by which greenhouse gases(carbon dioxide, methane, nitrous oxide) in a planet's atmosphere cause some of the heat radiated from the planet's surface to build up within the planet's surface. 
+
+ These gases rise up in the atmosphere forming a thermal blanket(heat trap) that traps heat radiated by the earth's surface from ecsaping the earth's surfeace. When the sun radiates heat, a lot of solar radiations enter the earth's atmosphere to the surface causing a short wave length and the surface of the earth radiates less heat back and when it reaches the atmosphere, it is trapped by the thermal blanket formed by the greenhouse gases and this surface radiation has a long wavelength because it has low temperatures compared to the radiations from the sun.
 
 **Global warming**
 
