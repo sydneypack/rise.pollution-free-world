@@ -54,11 +54,13 @@ For people with existing heart and circulatory conditions, this damage can incre
 **GREENHOUSE EFFECT**
 The greenhouse effect is the process by which greenhouse gases(carbon dioxide, methane, nitrous oxide) in a planet's atmosphere cause some of the heat radiated from the planet's surface to build up within the planet's surface. 
 
- These gases rise up in the atmosphere forming a thermal blanket(heat trap) that traps heat radiated by the earth's surface from ecsaping the earth's surfeace. When the sun radiates heat, a lot of solar radiations enter the earth's atmosphere to the surface causing a short wave length and the surface of the earth radiates less heat back and when it reaches the atmosphere, it is trapped by the thermal blanket formed by the greenhouse gases and this surface radiation has a long wavelength because it has low temperatures compared to the radiations from the sun.
+ These gases rise up in the atmosphere forming a thermal blanket(heat trap) that traps heat radiated by the earth's surface from ecsaping the earth's surfeace. When the sun radiates heat, a lot of solar radiations enter the earth's atmosphere to the surface causing a short wave length and the surface of the earth radiates less heat back and when it rises, trying to find its way out of the earth's atmosphere, it is trapped by the thermal blanket formed by the greenhouse gases and this surface radiation has a long wavelength because it has low temperatures compared to the radiations from the sun. 
+
+ These gases have a mechanism of absorbing heat and since the gas molecules are loosely held together causing them to vibrate after absorbing heat hence transferrring heat to nearby greenhouse molecules, some heat escapes out of the atmosphere and more of the heat back to the surface. This continuous process will keep the planet warm hence causing **global warming**.
 
 **Global warming**
 
-What is global warming and its caused?
+What is global warming and its cause?
 
 **Global warming** is an aspect of climate change, referring to the long-term rise of the planet's temperatures. It is caused by increased concentrations of greenhouse gases in the atmosphere, mainly from human activities such as burning fossil fuels, and farming. Global warming has effects on our environment and these include: Hotter temperatures. As greenhouse gas concentrations rise, so does the global surface temperature. ...
 More severe storms. ...
