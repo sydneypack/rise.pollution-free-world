@@ -52,7 +52,8 @@ For people with existing heart and circulatory conditions, this damage can incre
 **GLOBAL WARMING AND GREENHOUSE EFFECT**
 
 **GREENHOUSE EFFECT**
-The greenhouse effect is the process by which greenhouse gases(carbon dioxide, methane, nitrous oxide) in a planet's atmosphere cause some of the heat radiated from the planet's surface to build up within the planet's surface. When these gases rise up in the atnmosphere, they form a thermal blanket within the atmosphere
+The greenhouse effect is the process by which greenhouse gases(carbon dioxide, methane, nitrous oxide) in a planet's atmosphere cause some of the heat radiated from the planet's surface to build up within the planet's surface. When these gases rise up in the atnmosphere, they form a thermal blanket within the atmosphere.
+
 **Global warming**
 
 What is global warming and its caused?
