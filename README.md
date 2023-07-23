@@ -50,7 +50,7 @@ For people with existing heart and circulatory conditions, this damage can incre
 
 **ENVIRONMENTAL COMPLICATIONS**
 
-Global warming
+**Global warming**
 
 What is global warming and its caused?
 
