@@ -97,7 +97,7 @@ Acid rain can also have a damaging effect on many objects, including buildings, 
 
 ![image align="center" width="300" height"100"](https://user-images.githubusercontent.com/96417805/223509396-cb8d1206-8613-4bc6-8989-72c5d30e69bc.png)
 
-![Uploading IMG_20221030_153028.jpg…](C:\Users\user\Desktop\SYDNEY'S FOLDER\CHEMISTS)
+(https://github.com/sydneypack/rise.pollution-free-world/blob/main/IMG_20221030_153028.jpg)
 
 
 
